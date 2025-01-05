@@ -8,7 +8,7 @@ const Footer = () => {
             {/*----Left section-- */}
             <div>
                 <img className='mb-5 w-40' src={assets.logo} alt="" />
-                <p className='w-full md:w-2/3 text-gray-600 leading-6'>This is Doctor appointment system </p>
+                <p className='w-full md:w-2/3 text-gray-600 leading-6'>This is Doctor appointment system. Streamlined appointment scheduling that fits into your busy lifestyle.Tailored recomendations and reminders to help you stay on top of your health.   </p>
             </div>
 
              {/*----center section-- */}
@@ -34,7 +34,7 @@ const Footer = () => {
         {/*----copy right section-- */}
         <div>
              <hr />
-             <p className='py-5 text-black text-sm text-center'>Copyright 2024@ Brista Solutions - All Right reserved.</p>
+             <p className='py-5 text-black text-sm text-center'>Copyright 2024@ Brista Solutions - All Right reserved. </p>
              </div>
     </div>
   )
